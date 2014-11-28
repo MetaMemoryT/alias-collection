@@ -2,6 +2,7 @@
   "name": "alias-collection",
   "main": "alias-collection.js",
   "version": "0.0.1",
+  "description": "A collection of javascript aliases, available in the web browser",
   "authors": [
     "Sean Usick <sean258@gmail.com>"
   ],
