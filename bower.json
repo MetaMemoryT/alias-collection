@@ -1,0 +1,19 @@
+{
+  "name": "alias-collection",
+  "main": "alias-collection.js",
+  "version": "0.0.1",
+  "authors": [
+    "Sean Usick <sean258@gmail.com>"
+  ],
+  "keywords": [
+    "alias"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
